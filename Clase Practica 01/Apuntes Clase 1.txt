@@ -1,0 +1,51 @@
+Darle clic al icono
+Seleccionar el genero hasta la ultima fila
+y luego escoger una opcion => Dónde insetar la nueva hoja dinamica
+
+Luego de seleccionar donde se instará se mostrara la tabla
+xD Creo que no me salio
+
+Si me salio
+------
+
+Ahora al dar clic a la tabla 
+seleccionar el genero que elegi previamente
+Ahora falta el valor => Arrastrar el valor gacua el campo de valores
+
+Ahora vamos a personalizar los resultados
+
+Copiar los resultados para continuar con el ejercicio
+=> Agregamos los resultados un total el titulo y la frecuencia absoluta y relativa
+=> Utilizando las formulas para obtener la frecuencia relativa hacemos una division.
+
+¿Qué paso?
+
+Al momento de bajar el valor el total se bajo tambien ( Ocurrio un error) . Para poder solucionar esto hay que fijar el total. con F4
+
+
+Ahora unos graficos => Graficos Recomendados
+
+1) Se debe de agregar siempre el titulo 
+	=> "Distribución de frecuencia de los colaboradores según género"
+2) Agregar los datos 
+
+- Vamos a realizar un nuevo gráfico
+  - Utilizaremos una variable cualitativa utilizando la variable función
+  Paso 1 - Seleccionar una "Tabla dinámica"
+  Paso 2 - Seleccionar los datos 
+  Paso 3 - Elegir dónde se insertará
+
+Pregunta : Que represta ¿98? 
+Representa : Seria la suma de los tres primeros del total de encuestados (185) 98 son O personal de Apoyo o Gerencia u obrero. 
+Y por qué o. Por que no todos son apoyo o gerencial. Una persona no puede tener las tres categorias. Por lo tanto o. Eso quiere decir que o es de apoyo o es gerencial o es obrero. 
+
+  Paso 4 - Completar las frecuencias :V
+  Paso 5 - Insertar el gráfico
+           - ¿Cómo insertar el gráfico?
+             - Insertar -> Gráficos recomendados 
+           
+
+         
+
+
+
